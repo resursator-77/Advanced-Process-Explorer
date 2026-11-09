@@ -199,3 +199,6 @@ This repository serves as the official landing page for Advanced Process Explore
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Advanced Process Explorer today!**
+
+---
+**Last updated:** 2026-11-09 00:36:44 UTC
